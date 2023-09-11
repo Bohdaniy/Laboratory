@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\bin\Debug\net6.0\labs.exe
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\bin\Debug\net6.0\labs.deps.json
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\bin\Debug\net6.0\labs.runtimeconfig.json
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\bin\Debug\net6.0\labs.dll
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\bin\Debug\net6.0\labs.pdb
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\obj\Debug\net6.0\labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\obj\Debug\net6.0\labs.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\obj\Debug\net6.0\labs.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\obj\Debug\net6.0\labs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\obj\Debug\net6.0\labs.dll
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\obj\Debug\net6.0\refint\labs.dll
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\obj\Debug\net6.0\labs.pdb
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\obj\Debug\net6.0\labs.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Робочий стіл\labitos\labs\labs\obj\Debug\net6.0\ref\labs.dll
