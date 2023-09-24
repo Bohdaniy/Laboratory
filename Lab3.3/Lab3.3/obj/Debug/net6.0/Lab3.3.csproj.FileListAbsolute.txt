@@ -1,0 +1,14 @@
+D:\labitos2\Lab3\Lab3.3\Lab3.3\obj\Debug\net6.0\Lab3.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\labitos2\Lab3\Lab3.3\Lab3.3\obj\Debug\net6.0\Lab3.3.AssemblyInfoInputs.cache
+D:\labitos2\Lab3\Lab3.3\Lab3.3\obj\Debug\net6.0\Lab3.3.AssemblyInfo.cs
+D:\labitos2\Lab3\Lab3.3\Lab3.3\obj\Debug\net6.0\Lab3.3.csproj.CoreCompileInputs.cache
+D:\labitos2\Lab3\Lab3.3\Lab3.3\bin\Debug\net6.0\Lab3.3.exe
+D:\labitos2\Lab3\Lab3.3\Lab3.3\bin\Debug\net6.0\Lab3.3.deps.json
+D:\labitos2\Lab3\Lab3.3\Lab3.3\bin\Debug\net6.0\Lab3.3.runtimeconfig.json
+D:\labitos2\Lab3\Lab3.3\Lab3.3\bin\Debug\net6.0\Lab3.3.dll
+D:\labitos2\Lab3\Lab3.3\Lab3.3\bin\Debug\net6.0\Lab3.3.pdb
+D:\labitos2\Lab3\Lab3.3\Lab3.3\obj\Debug\net6.0\Lab3.3.dll
+D:\labitos2\Lab3\Lab3.3\Lab3.3\obj\Debug\net6.0\refint\Lab3.3.dll
+D:\labitos2\Lab3\Lab3.3\Lab3.3\obj\Debug\net6.0\Lab3.3.pdb
+D:\labitos2\Lab3\Lab3.3\Lab3.3\obj\Debug\net6.0\Lab3.3.genruntimeconfig.cache
+D:\labitos2\Lab3\Lab3.3\Lab3.3\obj\Debug\net6.0\ref\Lab3.3.dll
